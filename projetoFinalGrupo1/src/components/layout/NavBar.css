@@ -1,0 +1,84 @@
+/* General container styling */
+
+.container {
+  width: 90vw;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Navigation bar styling */
+.nav {
+
+  padding: 0; /* Alterado de 10px para 0 */
+  width:100%; /* Garantir que a navbar também ocupe a largura total */
+
+  background-color: #27333f;
+}
+
+.logo img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+
+.main_list ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.main_list ul li {
+  margin-left: 20px;
+}
+
+.main_list ul li a {
+  text-decoration: none;
+  color: #fff;
+  line-height: 65px;
+  text-transform: uppercase;
+}
+
+.main_list ul li a:hover {
+  color: #c0c0c0;
+}
+
+.media_button {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .main_list {
+    display: none;
+  }
+
+  .media_button {
+    display: block;
+  }
+
+  .main_media_button {
+    background-color: #333;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .main_media_button span {
+    background-color: #fff;
+    height: 2px;
+    width: 20px;
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .main_media_button span:last-child {
+    margin-bottom: 0;
+  }
+}

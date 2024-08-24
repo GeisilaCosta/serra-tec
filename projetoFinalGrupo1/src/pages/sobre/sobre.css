@@ -1,0 +1,76 @@
+ export css html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+}
+
+.sobre {
+  flex: 1;
+
+  margin-top:5px;
+
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 0;
+  margin-bottom: 0;
+}
+
+.sobre h1 {
+  margin-top: 10px;
+}
+
+.descricao {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.team {
+
+  margin-top: 5px;
+
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+}
+
+.member {
+  flex: 1;
+  min-width: 100px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
+
+.member img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 0;
+
+}
+
+

@@ -1,0 +1,238 @@
+{
+  "produtos": [
+    {
+      "imagem": "/assets/placaMae/placa-mae-asus-prime-h610m-e-d4-chipset-h610-intel-lga-1700-matx-ddr4-90mb19n0-m0eay0_170439.jpg",
+      "nome": "Placa Mãe Asus Prime H610M-E D4",
+      "descricao": "Placa Mãe Asus Prime H610M-E D4, Chipset H610, Intel LGA 1700, mATX, DDR4, 90MB19N0-C1BAY0",
+      "precoUnitario": 629.9,
+      "categoria": {
+        "id": 1
+      }
+    },
+    {
+      "imagem": "/assets/placaMae/placa-mae-duex-dx-h610zg-pro-chipset-h610-intel-lga-1700-matx-ddr4_195799.jpg",
+      "nome": "Placa Mãe Duex DX-H610ZG PRO",
+      "descricao": "Placa Mãe Duex DX-H610ZG PRO, Chipset H610, Intel LGA 1700, MATX, DDR4",
+      "precoUnitario": 449.99,
+      "categoria": {
+        "id": 1
+      }
+    },
+    {
+      "imagem": "/assets/placaMae/placa-mae-gigabyte-h610m-h-ddr4-chipset-h610-intel-lga-1700-matx-ddr4_138867.jpg",
+      "nome": "Placa Mãe Gigabyte H610M H DDR4",
+      "descricao": "Placa Mãe Gigabyte H610M H DDR4, Chipset H610, Intel LGA 1700, mATX, DDR4",
+      "precoUnitario": 619.99,
+      "categoria": {
+        "id": 1
+      }
+    },
+    {
+      "imagem": "/assets/processador/processador-intel-core-i3-12100.jpg",
+      "nome": "Processador I3",
+      "descricao": "PROCESSADOR INTEL CORE I3-12100, 4-CORE, 8-THREADS, 3.3GHZ (4.3GHZ TURBO), CACHE 12MB, LGA1700, BX8071512100",
+      "precoUnitario": 799.99,
+      "categoria": {
+        "id": 2
+      }
+    },
+    {
+      "imagem": "/assets/processador/processador-amd-ryzen-tthreadripper-pro.jpg",
+      "nome": "Processador AMD",
+      "descricao": "Processador AMD Ryzen Threadripper PRO 7985WX, 64-Core, 128-Threads, 3.2GHz (5.1GHz Turbo), Cache 320MB, sTR5, 100-100000454WOF",
+      "precoUnitario": 55999.99,
+      "categoria": {
+        "id": 2
+      }
+    },
+    {
+      "imagem": "/assets/placaDeVideo/placa-de-video-gigabyte-nvidia-geforce-rtx-4060-eagle-oc-8gb-gddr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd_172916.jpg",
+      "nome": "Placa de Vídeo RTX 4060",
+      "descricao": "Placa de Vídeo Gigabyte NVIDIA GeForce RTX 4060 EAGLE OC, 8GB, GDDR6, DLSS, Ray Tracing,",
+      "precoUnitario": 1999.9,
+      "categoria": {
+        "id": 3
+      }
+    },
+    {
+      "imagem": "./assets/placaDeVideo/placa-de-video-asrock-radeon-rx-6600-challenger-d-8gb-gddr6-fsr-ray-tracing-90-ga2rzz-00uanf_133352.jpg",
+      "nome": "Placa de Vídeo RX 6600",
+      "descricao": "Placa de Vídeo ASRock Radeon RX 6600 Challenger D, 8GB, GDDR6, FSR, Ray Tracing, 90-GA2RZZ-00UANF",
+      "precoUnitario": 1299.99,
+      "categoria": {
+        "id": 3
+      }
+    },
+    {
+      "imagem": "/assets/placaDeVideo/placa-de-video-inno3d-geforce-rtx-3060-twin-x2-12gb-gddr6-dlss-ray-tracing-n30602-12d6-119032ah_144054.jpg",
+      "nome": "Placa de Vídeo RTX 3060",
+      "descricao": "Placa de Vídeo INNO3D GeForce RTX 3060 TWIN X2, 12GB, GDDR6, DLSS, Ray Tracing, N30602-12D6-119032AH",
+      "precoUnitario": 1669.99,
+      "categoria": {
+        "id": 3
+      }
+    },
+    {
+      "imagem": "/assets/ssd/ssd-kingston-nv2-500gb-m2-nvme-2280-leitura-3500mbs-e-gravacao-2100mbs-snv2s500g_154164.jpg",
+      "nome": "SSD Kingston NV2",
+      "descricao": "SSD Kingston NV2, 500GB, M.2 NVMe, 2280, Leitura 3500MBs e Gravação 2100MBs, SNV2S/500G",
+      "precoUnitario": 289.9,
+      "categoria": {
+        "id": 4
+      }
+    },
+    {
+      "imagem": "/assets/fonte/fonte-xpg-kyber-superframe-750w-80-plus-gold-com-conector-pcie-50-pfc-ativo_181749.jpg",
+      "nome": "Fonte XPG 750w",
+      "descricao": "Fonte XPG Kyber SuperFrame, 750w, 80 Plus Gold, Cybenetics Gold, Com conector PCIe 5.0, PFC Ativo, KYBER750G BK C BR",
+      "precoUnitario": 359.99,
+      "categoria": {
+        "id": 5
+      }
+    },
+    {
+      "imagem": "/assets/memoria/memoria-ddr4-xpg-gammix-d35-8gb-3200mhz-black-ax4u32008g16a-sbkd35_175566.jpg",
+      "nome": "Memória DDR4 8GB",
+      "descricao": "Memória DDR4 XPG GAMMIX D35, 8GB, 3200Mhz, Black, AX4U32008G16A-SBKD35",
+      "precoUnitario": 149.9,
+      "categoria": {
+        "id": 6
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/headset-gamer-havit-h2015g-rgb-wireless-black_170411.jpg",
+      "nome": "Headset H2015BG",
+      "descricao": "Headset Gamer Havit H2015BG, RGB, Wireless, Black",
+      "precoUnitario": 269.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/mouse-gamer-akko-naruto-smart-1-sasuke-wireless-1200-dpi-3-botoes_185446.jpg",
+      "nome": "Mouse Gamer",
+      "descricao": "Mouse Gamer Akko Naruto Smart 1 Sasuke Wireless, 1200 DPI, 3 Botões",
+      "precoUnitario": 129.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/teclado-mecanico-gamer-ninja-leap-switch-blue-rainbow-abnt2-black_161087.jpg",
+      "nome": "Teclado Mecânico",
+      "descricao": "Teclado Mecânico Gamer Ninja Leap, Switch Blue, Rainbow, ABNT2, Black",
+      "precoUnitario": 129.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/caixa-de-som-creative-t60-hi-fi-20-usb-c-bluetooth-50-51mf1705aa001_151411.webp",
+      "nome": "Caixa De Som",
+      "descricao": "Caixa De Som Creative T60 Hi-Fi 2.0, USB-C, Bluetooth 5.0, 51MF1705AA001",
+      "precoUnitario": 679.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/aixa-de-som-gamer-redragon-waltz-rgb-stereo-20-35mm-2x5w-preto-gs510_189309.jpg",
+      "nome": "Caixa De Som",
+      "descricao": "Caixa De Som Creative SBS E2900 2.1 Powerful, Bluetooth/USB/3.5mm, Black, Com Controle Remoto, 51MF0490AA001",
+      "precoUnitario": 579.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/caixa-de-som-creative-sbs-e2900-21-powerful-bluetoothusb35mm-black-com-controle-remoto-51mf0490aa001_151379.jpg",
+      "nome": "Caixa de Som",
+      "descricao": "Caixa de Som Gamer Redragon Waltz, RGB, Stereo 2.0, 3.5mm, 2x5W, Preto, GS510",
+      "precoUnitario": 99.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/soundbar-creative-stage-360-hdmibluetooth-50-black-com-controle-remoto-51mf8385aa000_151425.webp",
+      "nome": "Soundbar Creative",
+      "descricao": "Soundbar Creative Stage 360, HDMI/Bluetooth 5.0, Black, Com Controle Remoto, 51MF8385AA000",
+      "precoUnitario": 1689.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/controle-gamer-8bitdo-ultimate-c-sem-fio-windows-android-steam-os-raspberry-pi-roxo-81hc01_195751.jpg",
+      "nome": "Controle Gamer",
+      "descricao": "Controle Gamer 8Bit Ultimate C, Sem Fio, Windows, Android, Steam OS, Raspberry Pi, Roxo, 81HC01",
+      "precoUnitario": 179.99,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/controle-gamer-8bitdo-sn30-pro-sem-fio-bluetooth-xbox-cloud-gaming-android-ios-black_195023.jpg",
+      "nome": "Controle Arcade",
+      "descricao": "Controle Arcade 8Bit Arcade Stick, Sem Fio, Bluetooth, Switch, Windows, White, 80FE",
+      "precoUnitario": 719.99,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/controle-gamer-redragon-harrow-sem-fio-usb-24gz-pcps3-preto-g808_186822.webp",
+      "nome": "Controle Gamer",
+      "descricao": "Controle Gamer Redragon Harrow, Sem Fio, USB 2,4Gz, PC/PS3, Preto, G808",
+      "precoUnitario": 134.91,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/controle-sony-dualsense-ps5-sem-fio-midnight-black-3006452_160586.jpg",
+      "nome": "Controle Sony",
+      "descricao": "Controle Sony DualSense PS5, Sem Fio, Midnight Black, 3006452",
+      "precoUnitario": 442.1,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/webcam-logitech-c505-hd-720p-30-fps-microfone-960-001367_134060.jpg",
+      "nome": "Webcam Logitech",
+      "descricao": "Webcam Logitech C505, HD, 720p, 30 FPS, Microfone, 960-001367",
+      "precoUnitario": 249.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/webcam-intelbras-full-hd-1080p-usb-com-microfone-cam-1080p_190087.jpg",
+      "nome": "Webcam Intelbras",
+      "descricao": "Webcam Intelbras, Full HD, 1080P, USB, Com Microfone, CAM-1080P",
+      "precoUnitario": 289.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/webcam-logitech-brio-300-full-hd-1080p-30-fps-usb-c-rosa-960-001446_186249.jpg",
+      "nome": "Webcam Logitech",
+      "descricao": "Webcam Logitech Brio 300, Full HD 1080P, 30 FPS, USB-C, Rosa, 960-001446",
+      "precoUnitario": 339.9,
+      "categoria": {
+        "id": 7
+      }
+    },
+    {
+      "imagem": "/assets/perifericos/webcam-pcyes-raza-full-hd-1080p-usb-fhd-02_144730.jpg",
+      "nome": "Webcam PCYES",
+      "descricao": "Webcam PCYES Raza, Full HD 1080p, USB, FHD-02 1080P",
+      "precoUnitario": 179.9,
+      "categoria": {
+        "id": 7
+      }
+    }
+  ]
+}
